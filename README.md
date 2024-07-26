@@ -22,6 +22,18 @@ Step by step process of what it took to complete my project
 ![image](https://github.com/user-attachments/assets/49584d6a-b8da-4aac-b1b6-8fa2d40c9c0d)
 ![image](https://github.com/user-attachments/assets/9ded2f2e-e958-4cbf-89bf-7fda7ffa80e6)
 
+2. once you are done connecting to the VS Code you then have to export all your images that you want to train your jetson nano on
+![image](https://github.com/user-attachments/assets/e35365d6-8f67-40a6-ae08-38b159cbb060)
+![image](https://github.com/user-attachments/assets/e28b49ac-a7fe-4631-a6f0-1dab582ff7f1)
+![image](https://github.com/user-attachments/assets/4d5f6a1e-ed53-4a0a-9863-4f8ad06149b7)
+
+as you can see after doing all these steps you can export those images onto your VS code which you can use to train your AI. 
+
+3.
+
+
+
+
 
 1. Add steps for running this project.
 2. Make sure to include any required libraries that need to be installed for your project to run.
