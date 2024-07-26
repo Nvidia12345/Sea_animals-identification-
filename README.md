@@ -9,7 +9,7 @@ As you can see based on the data I had inserted, it sent a label on the picture 
 ## The Algorithm
 My final project for NVIDIA is a Sea Animal identification project. This project works by me inserting a photo of a Sea Animal into the code I created, after that I would hit enter and let the code process the image by using the data I used to traun the AI on. Once it is done processing it should send out a link to the image with a name that the AI identified it as and a confidence rate with how sure it is that name. 
 EX. 
-![image](https://github.com/user-attachments/assets/d0cfead3-6c4d-45bb-9a50-3ca56bd33ac4)
+![image](https://github.com/user-attachments/assets/d0cfead3-6c4d-45bb-9a50-3ca56bd33ac4).
 
 As you can see it sent out the image with what species it thinks it is along with a confidence rate of how sure it is that species.
 
