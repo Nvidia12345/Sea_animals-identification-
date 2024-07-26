@@ -1,4 +1,4 @@
-# sea animals final project 
+# Sea Animals final project 
 My project will consist of inserting a sea-animal image into my AI model running on Jetson nano and then once the code is processed, the AI model should post what the sea-animal name is with a confidence rate
 ![image](https://github.com/user-attachments/assets/9a631132-4220-455d-9a0a-ff746ef9e71d)
 ![image](https://github.com/user-attachments/assets/41af05d6-ce60-46d2-85dd-08be64105474)
