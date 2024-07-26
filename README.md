@@ -73,4 +73,4 @@ as you can clearly see it works and it printed the name of the species and the c
 1. Add steps for running this project.
 2. Make sure to include any required libraries that need to be installed for your project to run.
 
-[[View a video explanation here](video link)](https://www.youtube.com/watch?v=GvYkV4gp9yg)
+(https://www.youtube.com/watch?v=GvYkV4gp9yg)
