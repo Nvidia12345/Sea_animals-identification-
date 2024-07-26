@@ -8,8 +8,20 @@ As you can see based on the data I had inserted, it sended a picture of the name
 
 
 ## The Algorithm
-k
+My final project for nvidia is a Sea Animal identification project. This project works by me inserting a photo of a Sea Animal into the code I created, after that I would hit enter and let the code process the image by using the data I used to traun the AI on. Once it is done processing it should send out a link to the image with a name that the AI identified it as and a confidence rate with how sure it is that name. 
+EX. 
+![image](https://github.com/user-attachments/assets/d0cfead3-6c4d-45bb-9a50-3ca56bd33ac4)
+
+as you can see it sent out the image with what species it thinks it is along with a confidence rate of how sure it is that species.
+
+
 ## Running this project
+Step by step process of what it took to complete my project 
+
+1.connect my jetson nano to VS Code - you first have to click the connect to button, then click your IP adress to fully connect it. 
+![image](https://github.com/user-attachments/assets/49584d6a-b8da-4aac-b1b6-8fa2d40c9c0d)
+![image](https://github.com/user-attachments/assets/9ded2f2e-e958-4cbf-89bf-7fda7ffa80e6)
+
 
 1. Add steps for running this project.
 2. Make sure to include any required libraries that need to be installed for your project to run.
